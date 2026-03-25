@@ -1,0 +1,67 @@
+\documentclass[12pt]{article}
+
+% Packages
+\usepackage{amsmath, amssymb, amsthm}
+
+% Theorem environment
+\newtheorem{theorem}{Theorem}
+
+% Custom commands (optional but useful)
+\newcommand{\OR}{\lor}
+\newcommand{\AND}{\land}
+\newcommand{\NOT}{\neg}
+\newcommand{\IMP}{\rightarrow}
+
+\title{Proofs in Propositional Logic}
+\author{}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\section*{Introduction}
+This document contains a collection of proofs in propositional logic.
+
+% -------------------------
+% THEOREM 1
+% -------------------------
+
+\begin{theorem}
+$((P_1 \OR P_2) \AND (P_1 \IMP Q) \AND (P_2 \IMP Q)) \IMP ((P_1 \OR P_2) \IMP Q)$
+\end{theorem}
+
+\begin{proof}
+\leavevmode
+\begin{enumerate}
+    \item $P_1 \OR P_2$ \hfill (Assumption)
+    \item $P_1 \IMP Q$ \hfill (Assumption)
+    \item $P_2 \IMP Q$ \hfill (Assumption)
+    
+    \item $\NOT P_1 \OR Q$ \hfill (from 2, implication elimination)
+    \item $\NOT P_2 \OR Q$ \hfill (from 3, implication elimination)
+    
+    \item $(\NOT P_1 \OR Q) \AND (\NOT P_2 \OR Q)$ \hfill (from 4,5)
+    
+    \item $(\NOT P_1 \AND \NOT P_2) \OR Q$ \hfill (distribution)
+    
+    \item $(P_1 \OR P_2) \IMP Q$ \hfill (implication form)
+\end{enumerate}
+\end{proof}
+
+% -------------------------
+% ADD MORE THEOREMS BELOW
+% -------------------------
+
+\begin{theorem}
+% Write your next theorem here
+\end{theorem}
+
+\begin{proof}
+\begin{enumerate}
+    \item % step 1
+    \item % step 2
+\end{enumerate}
+\end{proof}
+
+\end{document}
