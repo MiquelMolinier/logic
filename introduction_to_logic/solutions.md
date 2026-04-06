@@ -104,3 +104,89 @@
     - Premise:
     - Conclusion:
 
+### Exercises 1.4 (Arguments and Explanation)
+
+01. Explanation
+02. Argument
+    - Conclusion:
+        - The victories of American labor were the undoing of American blacks
+    - Premises:
+        - Labor laws stymied black economic and social advancement
+        - American blacks were almost totally excluded from labor unions
+        - The gap between black and white unemployment rate increased after the government
+        intervene on labor's behalf.
+03. Explanation
+    - Being explained:
+        - Sex feels good
+    - Explanation given:
+        - Over evolutionary time the animals that liked having sex created more offspring than the
+        animals that didn't.
+04. Argument
+    - Premise
+        - Changes are real
+        - Changes are only possible in time
+    - Conclusion:
+        - Time must be something real
+05. Explanation
+    - Being explained:
+        - the nursing shortage in the United States
+    - Explanation given:
+        - fewer young people go into nursing
+        - nurses currently practicing report high rates of job dissatisfaction with one in five
+        seriously considering leaving the profession within the next five years
+06. Argument
+    - Premises:
+        - To name causes (antecedents) for a state of affairs is not to excuse it
+        - Things are justified by their consequences or by their antecedents
+    - Conclusion:
+        - Things are justified or condemned by their consequences, not by their antecedents.
+07. Explanation
+    - Being explained:
+        - Royal edicts and ordinances conclude with the formula, "for such is our good pleasure"
+    - Explanation given:
+        - One may be subject to laws made by another
+        - It is impossible to bind oneself in any matter which is the subject of one's own free
+        exercise of will.
+        - The king cannot be subject to his own laws
+08. Explanation
+    - Being explained:
+        - Oscar Wilde liked Wagner's music better than anybody's
+    - Explanation given:
+        - It is so loud that one can talk the whole time without people hearing what one says
+09. Explanation
+    - Being explained:
+        - American society in recent decades make cheating more likely
+    - Explanation given:
+        - There is the rise of a market-drenched society, where monetary success is lauded above
+        all else
+        - There is the decline of religious, communal, and family bond and norms that encourage
+        honesty
+        - There is the absence of shame by those public figures who are caught in dishonest or
+        immoral activities
+10. Explanation
+    - Winged Cupid is painted blind
+        - Love looks not with they eyes but with the mind
+11. Argument
+    - The women have less body hair than men because greater sexual selection pressure on women
+        - Sexual selection has probably strongly influenced numerous traits of both sexes
+        - Youthful appearance is more important to men when selecting a mate than it is to women
+        - The longer a woman can look young, the longer she will be sexually attractive and the
+        more opportunities she will have to bear offspring with desirable men
+        - Hairlessness advertises youth
+12. Argument
+    - Mutually assured destruction will not work with a religious fanatic like Mahmoud Ahmadinejad
+        - For him, mutual assured destruction is not a deterrent, it is an inducement
+        - Iran's leaders do not give a damn about killing their own people in great numbers
+        - Killing their own people is giving them a quick free pass to heaven and all its delights
+13. Argument
+    - Interesting life can exist only in three dimensions
+        - If there were more than three space dimensions, planets would not orbit a sun long enough
+        for life to originate
+        - If there were less tan three space dimensions, , neither blood flow nor large numbers of
+        neuron connections can exist
+14. Argument
+    - The United States needs translators and interpreters who have helped its troops and
+    diplomats.
+        - They speak many strategically important languages
+        - The United States does not have an adequate number of interpreters and translators who
+        are proficient in these languages
