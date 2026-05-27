@@ -190,3 +190,36 @@
         - They speak many strategically important languages
         - The United States does not have an adequate number of interpreters and translators who
         are proficient in these languages
+15. Argument
+    - The Treasury Department violates Section 504 of the Rehabilitation Act
+        - The Treasury Department has failed to design a paper currency that is readily
+        distinguishable
+        to blind and visually impaired individuals
+        - Section 504 of the Rehabilitation Act provides that no disabled person shall be subjected to discrimination under any program
+16. Argument
+    - Rightness never guarantees moral goodness
+        - An act may be the act which the agent thinks to be his duty and yet be done from an
+        indifferent or bad motive
+        - An act done from an indifferent or bad motive is morally indifferent or bad
+17. Argument
+    - To believe in God is not "beyond reason"
+        - Man discovered the circle, the square, mathematics and laws of physics.
+        - The immutable and eternal laws of sciences could only have been created by God.
+        - We have the ability to make such discoveries then man's mind must possess and innate
+        particle of the mind of God.
+18. Explanation
+    - I have no hesitation in embracing the holiday and joining with believers and nonbelievers
+    alike to celebrate what we have in common
+        - Many of the celebratory rituals of Christmas have their origin outside of the Christian
+        commemoration of the birth of Jesus
+        - Those traditions have much to do with celebrating human relationships and the enjoyment
+        of the goods that his life has to offer
+19. Argument
+    - All ethnic movements are two-edged swords
+        - It begins benignly and sometimes necessary to repair injured collective psyches
+        - They often end in tragedy as illustrated by German history.
+20. Argument
+    - It is false that all who are happy are equally happy
+        - Happiness consist in the multiplicity of agreeable consciousness
+        - A peasant hasn less capacity for having equal multiplicity of agreeable consciousness
+        than a philosopher
